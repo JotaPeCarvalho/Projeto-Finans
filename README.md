@@ -1,5 +1,5 @@
 ## Finans Website
-A fictitious responsive website of a finance company.![logo](https://user-images.githubusercontent.com/91575096/166113788-58f5d14d-f05b-4e41-9b0b-83492b4c9ec3.png)
+A fictitious responsive website of a finance company.
 
 
 
